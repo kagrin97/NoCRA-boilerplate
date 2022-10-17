@@ -6,7 +6,7 @@
     "allowJs": true,
     "jsx": "preserve",
     "sourceMap": true,
-    "outDir": "./dist",
+    "outDir": "./build",
     "isolatedModules": true,
     "strict": true,
     "moduleResolution": "node",

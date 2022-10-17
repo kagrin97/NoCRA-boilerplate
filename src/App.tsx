@@ -1,8 +1,8 @@
-import React from "react";
+import React from 'react';
 
 const App = () => (
   <>
-    <h1>React without CRsdfA...</h1>
+    <h1>React without CRA...</h1>
   </>
 );
 
