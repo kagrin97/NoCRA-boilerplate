@@ -20,6 +20,6 @@
 - `eslint, prettier`로 코드에 통일성을 주며 `husky`로 커밋전 prettier를 적용하고 푸쉬전 eslint를 포맷팅합니다.
 
 - jest가 돌아갈수 있도록 초기 설정을 구현했습니다. `Home.test.js 기본 테스트 코드 작성완료`
-  - https://github.com/kagrin97/NoCRA-configKit/blob/45adc546ca411d20ce460e303d26ff51ec20dd1b/src/pages/Home/Home.test.js#L1-L13
+  - https://github.com/kagrin97/NoCRA-boilerplate/blob/45adc546ca411d20ce460e303d26ff51ec20dd1b/src/pages/Home/Home.test.js#L1-L13
   
 - storybook이 `styled-components를 인식할수 있도록` 초기 설정을 완료했습니다.
